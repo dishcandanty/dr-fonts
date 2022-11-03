@@ -1,0 +1,11 @@
+devid=dishcandanty
+devtitle=Davin
+gameid=tisbrokah
+gametitle=tisbrokah
+version=0.1.0
+icon=metadata/icon.png
+#compile_ruby=false
+allscreen=true
+allscreen_max_scale=400
+scale_quality=1
+hd=false
